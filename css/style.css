@@ -12,6 +12,10 @@ body {
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 
+
+P{
+  text-indent: 20px;
+}
 /* Main content section */
 
 .main-content-section {
@@ -35,7 +39,7 @@ body {
 .about-me-profession {
   font-style: normal;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 17px;
   color: #000;
   margin-bottom: 20px;
@@ -51,12 +55,13 @@ body {
 }
 
 .about-me-description {
-  width: 400px;
+  width: 600px;
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
-  color: #595959;
+  text-align: justify;
+  color: #111111;
 }
 
 /* My projects section */
@@ -117,9 +122,9 @@ body {
 .my-work-experience-period {
   font-style: normal;
   font-weight: normal;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 15px;
-  color: #a8a8a8;
+  color: #111111;
   margin-bottom: 10px;
 }
 
@@ -152,9 +157,9 @@ body {
 .my-work-education-period {
   font-style: normal;
   font-weight: normal;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 15px;
-  color: #a8a8a8;
+  color: #111111;
   margin-bottom: 10px;
 }
 
@@ -200,17 +205,17 @@ body {
 .contacts-section-type {
   font-style: normal;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #ffffff;
   margin-right: 7px;
 }
 
 .contacts-section-link {
-  color: #565e6a;
+  color: #ffffff;
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
 }
 
